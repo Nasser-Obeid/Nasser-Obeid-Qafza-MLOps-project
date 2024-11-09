@@ -1,0 +1,6 @@
+project_task2/.venv
+project_task2/__pycache__
+project_task2/ml/__pycache__
+project_task2/Qafza-MLOps-project
+project_task2/ml/model/fruit_classification.h5
+project_task2/Dockerfile
