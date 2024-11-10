@@ -30,5 +30,5 @@ optionally, instead of using this repository, you can find a fully setup Docker 
 - Docker Hub: https://hub.docker.com/r/nasserobeid/fruitclassifier/
 
 ## Notes
-when using the docker image, make sure that the container port used when running the image is set to 8000, the reason that the port of the container is hardcoded to 8000 as showcased in this repository( this to be changed later). as an example, if you desired to run the image on port 2333 for example, simply run: "docker run -d -p 2333:8000 fruitclassifier".
+when using the docker image, make sure that the container port used when running the image is set to 8000, the reason that the port of the container is hardcoded to 8000 as showcased in this repository( this to be changed later). as an example, if you desired to run the image on port 2333 for example, simply run: "docker run -p 2333:8000 fruitclassifier".
 
